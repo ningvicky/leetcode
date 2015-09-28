@@ -8,14 +8,18 @@ Two binary trees are considered equal if they are structurally identical and the
 Total Accepted: 38806 Total Submissions: 99043 Difficulty: Easy
 Invert a binary tree.
 
+```     
      4
    /   \
   2     7
  / \   / \
 1   3 6   9
+```
 to
+``` 
      4
    /   \
   7     2
  / \   / \
 9   6 3   1
+```
