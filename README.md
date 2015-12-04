@@ -71,3 +71,8 @@ For example, given nums = [0, 1, 0, 3, 12], after calling your function, nums sh
 Note:
 You must do this in-place without making a copy of the array.
 Minimize the total number of operations.
+
+#### 8. Longest Palindromic Substring My Submissions Question
+
+Given a string S, find the longest palindromic substring in S. You may assume that the maximum length of S is 1000, and there exists one unique longest palindromic substring.
+
